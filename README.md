@@ -1,2 +1,6 @@
-# Canteen-portal
-Made a demo Canteen Portal for our college using mern stack.
+## HOW TO RUN
+sudo docker-compose up /d
+
+Website will open at personal Ipv4 Address with port 3050
+hostname -I
+
